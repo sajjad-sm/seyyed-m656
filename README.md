@@ -7,3 +7,9 @@
 
 <a href="https://github.com/seyyed-m656">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=seyyed-m656&show_icons=true&count_private=true&include_all_commits=true" /></a>
+
+<hr>
+
+<a href="https://github.com/ghost1372">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372" />
+</a> 
