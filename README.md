@@ -3,7 +3,5 @@
 - 🌱 I’m currently learning JS/TS
 - 📫 How to reach me ...
 
-<!---
-seyyed-m656/seyyed-m656 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/seyyed-m656">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=seyyed-m656&show_icons=true&count_private=true&include_all_commits=true" /></a>
