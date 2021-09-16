@@ -11,5 +11,5 @@
 <hr>
 
 <a href="https://github.com/seyyed-m656">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyyed-m656" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=@seyyed-m656" />
 </a> 
